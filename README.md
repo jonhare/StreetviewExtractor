@@ -13,7 +13,7 @@ Run the program with `java -jar target/StreetviewExtractor-1.0-SNAPSHOT.jar`
 
 
 		Usage: java -jar StreetviewExtractor.jar [options...]
-		 --api-key (-a) VAL  : Google Maps API Key
+		 --api-key (-a) VAL  : Google API Key (enabled for Directions and Street View Images)
 		 --fpx N             : Number of images per X. If --time-recode is enabled X is
 		                       seconds; otherwise it is metres.
 		 --from VAL          : From coordinates formatted as lat,lng

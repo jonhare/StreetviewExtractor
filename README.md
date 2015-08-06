@@ -28,6 +28,6 @@ Run the program with `java -jar target/StreetviewExtractor-1.0-SNAPSHOT.jar`
 		 --write-video (-v)  : Output a video of the route.
 
 Example:
-java -jar target/StreetviewExtractor-1.0-SNAPSHOT.jar --from 40.631538,-73.965327 --to 40.691099,-73.991785 -i -v -o test.json -a <your_api_key>
+		java -jar target/StreetviewExtractor-1.0-SNAPSHOT.jar --from 40.631538,-73.965327 --to 40.691099,-73.991785 -i -v -o test.json -a <your_api_key>
 
 

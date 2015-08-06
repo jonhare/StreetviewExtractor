@@ -6,7 +6,7 @@ Commandline tool to extract streetview images along a route between two location
 You need Apache Maven. From a terminal run `mvn package shade:shade` to build an executable jar.
 
 ##Usage
-You will need a Google API key - get one here: https://console.developers.google.com
+You will need a Google API key - get one here: https://console.developers.google.com.
 You'll need to enable the "Directions API" and "Street View Image API".
 
 Run the program with `java -jar target/StreetviewExtractor-1.0-SNAPSHOT.jar`
